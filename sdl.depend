@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556094507 source:e:\projets code..blocks\sdl\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+
